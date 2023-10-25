@@ -1,0 +1,27 @@
+.one {
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: aqua;
+    /* box-sizing - Make box fit the div size */
+    box-sizing: border-box;
+}
+
+.two {
+    border: 2px dotted blue;
+    background-color: aquamarine;
+}
+
+.three {
+    border-color: gold;
+    border-style: groove;
+    border-width: 4px;
+    background-color: brown;
+    /* border-radius: 50% - Make border circular */
+    border-radius: 50%; 
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}

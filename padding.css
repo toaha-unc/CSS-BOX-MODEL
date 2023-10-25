@@ -1,0 +1,17 @@
+
+/* padding: one value - all four sides; */
+#one{
+    padding: 10px;
+}
+/* two values - top&bottom, left&right; */
+#two{
+    padding: 10px 20px;
+}
+/* three values - top, left&right, bottom; */
+#three{
+    padding: 10px 5px 20px;
+}
+/* four values - top, right, bottom, left; */
+#four{
+    padding: 5px 10px 15px 20px;
+}

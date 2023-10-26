@@ -1,0 +1,7 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 155, 255);
+    /* opacity affects the content */
+    opacity: 0.3;
+}

@@ -1,0 +1,14 @@
+
+/* em for a property other than font-size is times its font-size */
+
+div {
+    font-size: 2em;
+    border: 1em dotted black;
+    background-color: mediumseagreen;
+}
+
+/* em for an element is times its parent element */
+
+button {
+    font-size: 2em;
+}
